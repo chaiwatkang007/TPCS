@@ -127,7 +127,7 @@ export default function Home() {
                 htmlType="submit"
                 onClick={_handleLogin}
               >
-                Log in
+                Login
               </Button>
               <div className="mt-2 text-wrap text-yellow-50">
                 or{" "}

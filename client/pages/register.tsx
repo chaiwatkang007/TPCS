@@ -141,7 +141,7 @@ export default function Register() {
                 htmlType="submit"
                 onClick={_handleRegister}
               >
-                Log in
+                Sign Up
               </Button>
               <div className="mt-2 text-wrap text-yellow-50">
                 or{" "}
